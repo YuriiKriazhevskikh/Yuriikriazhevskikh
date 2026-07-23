@@ -1,4 +1,4 @@
-# Hi, I am Yurii 👋
+# Hi, I am Iurii 👋
 
 💻🔍🪲 **QA Engineer** with a passion for test automation and quality assurance.  
 I enjoy building reliable software and continuously improving testing processes.
